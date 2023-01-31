@@ -1,6 +1,6 @@
-<h1>Hi, folks 👋</h1>
+<h1>Hi, folks 👋 I'm Harsh</h1>
 
-<h3>A passionate frontend developer from India</h3>
+<h3>A passionate Frontend developer from India studying Computer Science & Enineering.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shaharsh624&label=Profile%20views&color=0e75b6&style=flat" alt="shaharsh624" />
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Algorithms and Data Science**
 
-- 👯 I’m looking to collaborate on **web development projects**
+- 👯 I’m looking to collaborate on **Web development projects**
 
 - 💬 Ask me about **Web development**
 
