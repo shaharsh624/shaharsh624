@@ -1,6 +1,6 @@
 <h1>Hi, folks 👋 I'm Harsh</h1>
 
-<h3>A passionate Frontend developer from India studying Computer Science & Enineering.</h3>
+<h3>A passionate Frontend developer from India studying Computer Science & Engineering.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shaharsh624&label=Profile%20views&color=0e75b6&style=flat" alt="shaharsh624" />
