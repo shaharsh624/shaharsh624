@@ -1,10 +1,12 @@
 <h1>Hi, folks 👋 I'm Harsh</h1>
-
-<h3>A passionate Frontend developer from India studying Computer Science & Engineering.</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shaharsh624&label=Profile%20views&color=0e75b6&style=flat" alt="shaharsh624" />
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quando&color=3da47a&size=24&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Open+Source+Contributer;AI+%7C+ML+Enthusiast;Researcher;Ready+For+New+Challenges">
+  </a>
 </p>
+
+<hr>
+
+## ℹ️ About Me 
 
 - 🌱 I’m currently learning **MERN Stack, Algorithms and Data Science**
 
@@ -16,13 +18,10 @@
 
 - ⚡ Fact: **I am melophile**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/harshshahdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshshahdev" height="30" width="40" /></a>
-  <a href="https://twitter.com/_shaharsh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shaharsh_" height="30" width="40" /></a>
-</p>
+<br></br>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ My Skills
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
@@ -58,8 +57,22 @@
   </a>
 </p>
 
+<br></br>
+
+## 📊 Stats
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaharsh624&show_icons=true&locale=en&layout=compact" alt="shaharsh624" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shaharsh624&show_icons=true&locale=en" alt="shaharsh624" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaharsh624&" alt="shaharsh624" /></p>
+
+
+<br></br>
+
+## 🔗 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/harshshahdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshshahdev" height="30" width="40" /></a>
+  <a href="https://twitter.com/_shaharsh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shaharsh_" height="30" width="40" /></a>
+</p>
