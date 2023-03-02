@@ -8,7 +8,7 @@
 
 ## ℹ️ About Me 
 
-- 🌱 I’m currently learning **MERN Stack, Algorithms and Data Science**
+- 🌱 I’m currently learning **MERN Stack, Algorithms and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
