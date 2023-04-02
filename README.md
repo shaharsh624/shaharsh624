@@ -3,7 +3,7 @@
 <img src="https://github.com/shaharsh624/shaharsh624/blob/main/Images/LinkedIn-GitHub.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 <hr>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quando&color=3da47a&size=24&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Open+Source+Contributer;AI+%7C+ML+Enthusiast;Researcher;Ready+For+New+Challenges">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quando&color=3da47a&size=24&center=true&vCenter=true&lines=Full+Stack+Web+Developer;AI+%7C+ML+Enthusiast;Researcher;Ready+For+New+Challenges">
   </a>
 </p>
 <hr>
