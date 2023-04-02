@@ -16,13 +16,13 @@ I am a Computer Science Student who is passionate about making Open-source more 
 <a href="mailto:harsh.dev624@gmail.com">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://linkedin.com/in/harshshahdev/">
+<a href="https://linkedin.com/in/harshshahdev">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/_shaharshhh">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/_shaharshhh_/">
+<a href="https://www.instagram.com/_shaharshhh">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
