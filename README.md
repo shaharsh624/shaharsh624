@@ -14,16 +14,16 @@ I am a Computer Science Student who is passionate about making Open-source more 
 ## 🌐 Let's Connect:
 
 <a href="mailto:harsh.dev624@gmail.com">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" />
 </a>
 <a href="https://linkedin.com/in/harshshahdev">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="https://twitter.com/_shaharshhh">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/768px-Logo_of_Twitter.svg.png?20220821125553" />
 </a>
 <a href="https://www.instagram.com/_shaharshhh">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" />
 </a>
 
 <br><br>
