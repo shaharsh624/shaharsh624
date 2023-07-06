@@ -29,7 +29,9 @@ I am a Computer Science Student who is passionate about making Open-source more 
 <br><br>
 
 ## 💻 Tech Stack:
-
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img align="left" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="html5" width="40" height="40" style="margin-right: 10px;" />
+  </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="html5" width="40" height="40" style="margin-right: 10px;" />
   </a>
