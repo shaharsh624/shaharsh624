@@ -1,6 +1,6 @@
 <h1>Hey, folks 👋 <br> I'm Harsh Shah!</h1>
   
-<img src="https://github.com/shaharsh624/shaharsh624/blob/main/Images/LinkedIn-GitHub.png" alt="">
+<img src="https://github.com/shaharsh624/shaharsh624/blob/main/Images/LinkedIn-Twitter.png" alt="">
 <hr>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quando&color=3da47a&size=24&center=true&vCenter=true&lines=Full+Stack+Web+Developer;AI+%7C+ML+Enthusiast;Researcher;Ready+For+New+Challenges">
