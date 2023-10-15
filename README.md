@@ -78,6 +78,3 @@ I am a Computer Science Student who is passionate about making Open-source more 
 ![](https://github-readme-stats.vercel.app/api?username=shaharsh624&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shaharsh624&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaharsh624&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=_shaharshhh)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
