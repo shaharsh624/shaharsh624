@@ -72,7 +72,7 @@ I am a Computer Science Student who is passionate about making Open-source more 
     <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width=40" height=40 style="margin-right: 10px;""/>
   </a>
   
-<br><br><br>
+<br><br><br><br>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shaharsh624&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
