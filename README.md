@@ -1,4 +1,4 @@
-<h1>Hey, folks 👋 <br> I'm Harsh Shah!</h1>
+<h1>Hii, folks 👋 <br> I'm Harsh Shah!</h1>
   
 <img src="https://github.com/shaharsh624/shaharsh624/blob/main/Images/LinkedIn-Twitter.png" alt="">
 <hr>
