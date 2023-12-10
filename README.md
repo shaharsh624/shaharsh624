@@ -1,35 +1,44 @@
-<h1>Hii, folks 👋 <br> I'm Harsh Shah!</h1>
-  
-<img src="https://github.com/shaharsh624/shaharsh624/blob/main/Images/LinkedIn-Twitter.png" alt="">
+##  Hello World! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=shaharsh624&label=Profile+Views)
+
+<div align="center">
+  <img src="Images/LinkedIn-Twitter.png"  />
+</div>
+
+<p align="left">I'm Harsh Shah, a Computer Science student with a zeal for open-source initiatives and a deep-rooted belief in the power of technology. Currently immersed in the fascinating world of Cyber Security and Machine Learning.
+
+My journey extends beyond the realms of academia, driven by an insatiable curiosity to delve into the mysteries of Data Structures and Algorithms, my goal is to continually refine my programming skills and deepen my understanding of machine learning and data science.
+
+Collaboration is at the heart of progress, and I'm always open to exciting opportunities and discussions. Feel free to reach out if you have any questions or if you're keen on sparking a creative collaboration.
+
+Let's code the future together! 🌟</p>
+
+Checkout my Personal Website <a href="https://shaharsh.vercel.app/" target="_blank">here</a>.
 <hr>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quando&color=3da47a&size=24&center=true&vCenter=true&lines=Full+Stack+Web+Developer;AI+%7C+ML+Enthusiast;Researcher;Ready+For+New+Challenges">
+
+## About me
+
+🔭 I’m currently learning ML and DSA.  
+👯 I’m looking to collaborate on projects.  
+👨‍💻 Checkout my Projects on GitHub.  
+📧 Reach me out at : [harshdev624@gmail.com](mailto:harsh.dev624@gmail.com)  
+⚡ Fact : I think I am melophile.
+
+## Socials
+
+<div align="left">
+  <a href="https://linkedin.com/in/harshshahdev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo" style="margin-right: 10px;"/>
   </a>
-</p>
-<hr>
-I am a Computer Science Student who is passionate about making Open-source more accessible, creating tech to elevate people and build community. I’m currently learning MERN Stack, Algorithms and trying my hands on Machine Learning. I love to explore new arenas.
+  <a href="https://twitter.com/_shaharshhh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="35"  alt="twitter logo" style="margin-right: 10px;" />
+  </a>
+</div>
 
-<br>
+## 💻 Skills
 
-## 🌐 Let's Connect:
-
-<a href="mailto:harsh.dev624@gmail.com">
-  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" />
-</a>
-<a href="https://linkedin.com/in/harshshahdev">
-  <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<a href="https://twitter.com/_shaharshhh">
-  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/768px-Logo_of_Twitter.svg.png?20220821125553" />
-</a>
-<a href="https://www.instagram.com/_shaharshhh">
-  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" />
-</a>
-
-<br><br>
-
-## 💻 Tech Stack:
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img align="left" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="html5" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
@@ -69,12 +78,17 @@ I am a Computer Science Student who is passionate about making Open-source more 
     <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width=40" height=40 style="margin-right: 10px;""/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width=40" height=40 style="margin-right: 10px;""/>
+    <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width=40" height=40 style="margin-right: 10px;"/>
   </a>
-  
+
 <br><br><br><br>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shaharsh624&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shaharsh624&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaharsh624&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaharsh624&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaharsh624&theme=github-dark&background=0D1117&border=FFFFFF&stroke=4B8DDA&currStreakNum=C3D1D9&ring=1B2F45&sideLabels=C3D1D9&sideNums=C3D1D9&currStreakLabel=C3D1D9&dates=767F84)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaharsh624&layout=compact&hide_progress=true&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+<b> Checkout my Personal Website <a href="https://shaharsh.vercel.app/" target="_blank">here</a>.</b>
+<hr>
