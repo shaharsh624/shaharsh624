@@ -1,4 +1,4 @@
-##  Hello World! 👋
+## Hello World! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shaharsh624&label=Profile+Views)
 
@@ -15,6 +15,7 @@ Collaboration is at the heart of progress, and I'm always open to exciting oppor
 Let's code the future together! 🌟</p>
 
 Checkout my Personal Website <a href="https://shaharsh.vercel.app/" target="_blank">here</a>.
+
 <hr>
 
 ## About me
@@ -38,48 +39,24 @@ Checkout my Personal Website <a href="https://shaharsh.vercel.app/" target="_bla
 
 ## 💻 Skills
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="html5" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="html5" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html5" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css3" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img align="left" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="mysql" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="linux" width="40" height="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width=40" height=40 style="margin-right: 10px;""/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width=40" height=40 style="margin-right: 10px;"/>
-  </a>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)   
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![]()
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <br><br><br><br>
 
