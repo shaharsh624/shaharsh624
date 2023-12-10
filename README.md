@@ -1,22 +1,23 @@
-## Hello World! 👋
+# Hello World! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shaharsh624&label=Profile+Views)
 
 <div align="center">
   <img src="Images/LinkedIn-Twitter.png"  />
 </div>
+<br>
 
-<p align="left">I'm Harsh Shah, a Computer Science student with a zeal for open-source initiatives and a deep-rooted belief in the power of technology. Currently immersed in the fascinating world of Cyber Security and Machine Learning.
+I'm Harsh Shah, a Computer Science student with a zeal for open-source initiatives and a deep-rooted belief in the power of technology. Currently immersed in the fascinating world of Cyber Security and Machine Learning.
+
 
 My journey extends beyond the realms of academia, driven by an insatiable curiosity to delve into the mysteries of Data Structures and Algorithms, my goal is to continually refine my programming skills and deepen my understanding of machine learning and data science.
 
 Collaboration is at the heart of progress, and I'm always open to exciting opportunities and discussions. Feel free to reach out if you have any questions or if you're keen on sparking a creative collaboration.
 
-Let's code the future together! 🌟</p>
+Let's code the future together! 🌟
 
 Checkout my Personal Website <a href="https://shaharsh.vercel.app/" target="_blank">here</a>.
 
-<hr>
 
 ## About me
 
