@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shaharsh624&label=Profile+Views)
 
 <div align="center">
-  <img src="Images/LinkedIn-Twitter.png"/>
+  <img src="Images/NewCover.png"/>
 </div>
 <br>
 
