@@ -9,7 +9,6 @@
 
 I'm Harsh Shah, a Computer Science student with a zeal for open-source initiatives and a deep-rooted belief in the power of technology. Currently immersed in the fascinating world of Cyber Security and Machine Learning.
 
-
 My journey extends beyond the realms of academia, driven by an insatiable curiosity to delve into the mysteries of Data Structures and Algorithms, my goal is to continually refine my programming skills and deepen my understanding of machine learning and data science.
 
 Collaboration is at the heart of progress, and I'm always open to exciting opportunities and discussions. Feel free to reach out if you have any questions or if you're keen on sparking a creative collaboration.
@@ -17,7 +16,6 @@ Collaboration is at the heart of progress, and I'm always open to exciting oppor
 Let's code the future together! 🌟
 
 Checkout my Personal Website <a href="https://shaharsh.vercel.app/" target="_blank">here</a>.
-
 
 ## About me
 
@@ -58,12 +56,9 @@ Checkout my Personal Website <a href="https://shaharsh.vercel.app/" target="_bla
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-
-
 ## 📊 GitHub Stats
 
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaharsh624&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaharsh624&theme=github-dark&background=0D1117&border=FFFFFF&stroke=4B8DDA&currStreakNum=C3D1D9&ring=1B2F45&sideLabels=C3D1D9&sideNums=C3D1D9&currStreakLabel=C3D1D9&dates=767F84)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaharsh624&layout=compact&hide_progress=true&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
+<div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=shaharsh624&count_private=true&show_icons=true&theme=github_dark" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=shaharsh624&theme=github-dark&background=0D1117&border=FFFFFF&stroke=4B8DDA&currStreakNum=C3D1D9&ring=1B2F45&sideLabels=C3D1D9&sideNums=C3D1D9&currStreakLabel=C3D1D9&dates=767F84" />
+</div>
