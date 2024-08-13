@@ -15,7 +15,7 @@ Collaboration is at the heart of progress, and I'm always open to exciting oppor
 
 Let's code the future together! 🌟
 
-Checkout my Personal Website <a href="https://shaharsh.vercel.app/" target="_blank">here</a>.
+Checkout my Personal Website <a href="https://harshshah.me" target="_blank" >here</a>.
 
 ## About me
 
