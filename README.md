@@ -7,7 +7,7 @@
 </div>
 <br>
 
-I'm Harsh Shah, a Computer Science student with a zeal for open-source initiatives and a deep-rooted belief in the power of technology. Currently immersed in the fascinating world of Cyber Security and Machine Learning.
+I'm Harsh Shah, a Computer Science student with open-source initiatives and a deep-rooted belief in the power of technology. Currently immersed in the fascinating world of Cyber Security and Machine Learning.
 
 My journey extends beyond the realms of academia, driven by an insatiable curiosity to delve into the mysteries of Data Structures and Algorithms, my goal is to continually refine my programming skills and deepen my understanding of machine learning and data science.
 
