@@ -1,40 +1,19 @@
-# Hello World! 👋
+# 👋Hi there, This is Harsh
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shaharsh624&label=Profile+Views)
 
 <div align="center">
   <img src="Images/NewCover.png"/>
 </div>
-<br>
 
-I'm Harsh Shah, a Computer Science student with open-source initiatives and a deep-rooted belief in the power of technology. Currently immersed in the fascinating world of Cyber Security and Machine Learning.
-
-My journey extends beyond the realms of academia, driven by an insatiable curiosity to delve into the mysteries of Data Structures and Algorithms, my goal is to continually refine my programming skills and deepen my understanding of machine learning and data science.
-
-Collaboration is at the heart of progress, and I'm always open to exciting opportunities and discussions. Feel free to reach out if you have any questions or if you're keen on sparking a creative collaboration.
-
-Let's code the future together! 🌟
-
-Checkout my Personal Website <a href="https://harshshah.me" target="_blank" >here</a>.
-
-## About me
-
-🔭 I’m currently learning ML and DSA.  
-👯 I’m looking to collaborate on projects.  
-👨‍💻 Checkout my Projects on GitHub.  
-📧 Reach me out at : [harshdev624@gmail.com](mailto:harsh.dev624@gmail.com)  
-⚡ Fact : I think I am melophile.
-
-## Socials
-
-<div align="left">
-  <a href="https://linkedin.com/in/harshshahdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://twitter.com/_shaharshhh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="35"  alt="twitter logo" style="margin-right: 10px;" />
-  </a>
-</div>
+### <em>Fullstack Developer</em>
+I'm a Fullstack Developer with experience in building dynamic web applications. I love exploring new technologies and continuously improving my skills. I am currently trying my hands-on Machine Learning.
+<p>
+  <a href="mailto:harshdev624@gmail.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
+  <a href="https://x.com/_shaharshhh" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-ffffff.svg?&style=for-the-badge&logo=X&logoColor=black" /></a> 
+  <a href="https://www.linkedin.com/in/harshshahdev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://harshshah.me" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white&backgroundColor=black" /></a>
+</p>
 
 ## 💻 Skills
 
